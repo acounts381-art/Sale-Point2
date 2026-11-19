@@ -1,0 +1,6 @@
+{
+  "appId": "com.ptc.salepoint",
+  "appName": "Sale Point",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
